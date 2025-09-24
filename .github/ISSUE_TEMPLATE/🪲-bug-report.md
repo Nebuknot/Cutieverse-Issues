@@ -1,6 +1,6 @@
 ---
 name: "\U0001FAB2 Bug Report"
-about: Create a report to help us improve
+about: Create a report to help me improve the bot.
 title: "[BUG] "
 labels: bug
 assignees: Nebuknot
