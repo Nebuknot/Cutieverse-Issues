@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: "\U0001F44C Feature Suggestion"
 about: Suggest an idea for the Cutieverse Bot.
 title: ''
 labels: Suggestion
